@@ -1,0 +1,13 @@
+diff --git a/builds.json b/builds.json
+index e8a5252a0d8200367362bd95f6821275f745a13b..b688946f5833ff089da06005b3c4f6d66c87a55d 100644
+--- a/builds.json
++++ b/builds.json
+@@ -186,7 +186,7 @@
+ 		},
+ 		{
+ 			"name": "NATURE MAN - FAMILY TIME",
+-			"version": "4.8",
++			"version": "4.9",
+ 			"url": "https://the-hermit.com/hermit_builds/Family-Time.zip",
+ 			"icon": "https://the-hermit.com/images/Familytime.png",
+ 			"fanart": "https://the-hermit.com/images/Familytime.jpg",
